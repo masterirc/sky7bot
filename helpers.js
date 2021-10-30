@@ -1,11 +1,11 @@
 function successfullMessage(msg) {
-    return "✅ *QueenAmdi*:  ```" + msg + "```"
+    return "✅ *ꌚᵏ𝔂7⦁ Bot*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *QueenAmdi*:  ```" + msg + "```"
+    return "☣ *ꌚᵏ𝔂7⦁ bot*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "• *QueenAmdi :*  ```" + msg + "```"
+    return "• *ꌚᵏ𝔂7⦁ Bot :*  ```" + msg + "```"
 }
 
 
