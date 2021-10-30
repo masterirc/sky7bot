@@ -7,7 +7,7 @@
 
 </a>
 
-![logo](https://fzstream.techwizardent.com/90054)
+![logo](https://i.ibb.co/gVptLz3/LOGO.jpg)
 <h1 align="center"><b> ☞☬ ꌚᵏ𝔂7⦁ Bot ☬☞ (ᴠɪᴘ) </b></h1>
 
 </a>
