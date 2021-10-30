@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 Queen Amdi.
+/* Copyright (C) 2021 sky7bot.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Queen Amdi - Black Amda
+Black Heart - sky7bot
 */
 
 
@@ -21,7 +21,7 @@ async function queenAmdi () {
     
     conn.on('🔄 connecting', async () => {
         console.log(`${chalk.green.bold('Queen')}${chalk.blue.bold(' Amdi')}
-${chalk.white.italic('Queen Amdi Sting session')}
+${chalk.white.italic('sky7 bot Sting session')}
 
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     });
@@ -29,15 +29,15 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
 
 	conn.on('open', async () => {
 		console.log(
-			chalk.green.bold('Queen Amdi QR Code: '),
-			'AMDI;;;' +
+			chalk.green.bold('sky7 bot QR Code: '),
+			'SKY;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				)
 		);
 		await conn.sendMessage(
 			conn.user.jid,
-			'AMDI;;;' +
+			'SKY;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				),
