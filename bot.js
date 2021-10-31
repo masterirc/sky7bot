@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 sky7bot.
+/* 𝐁𝐲 𝐁𝐥𝐚𝐜𝐤 𝐇𝐞𝐚𝐫𝐭.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-BlackHeart - sky7bot
+𝐁𝐥𝐚𝐜𝐤 𝐇𝐞𝐚𝐫𝐭 - 𝐑𝐔𝐊𝐈𝐈
 */
 
 const fs = require("fs");
