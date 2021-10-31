@@ -18,7 +18,7 @@
 </a>
 <p align="center">
     Project of  ꌚᵏ𝔂7⦁ Bot - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි.
-    ef="https://Wa.me/+94764163878">Black Heart Whatsapp </a> |
+    ef="https://Wa.me/+94764163878">BlackHeart Whatsapp </a> 
      
         
   <p align="center">
