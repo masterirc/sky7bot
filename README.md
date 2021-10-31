@@ -18,24 +18,7 @@
 </a>
 <p align="center">
     Project of  ꌚᵏ𝔂7⦁ Bot - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි.
-    ef="https://Wa.me/+94764163878">BlackHeart Whatsapp </a> 
-     
-        
-  <p align="center">
-<a href="https://t.me/Bot_x_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
-</p>
-   </a>
-</p>
-<p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
-    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
-  
-  </a>
-  <a href="https://github.com/xneon2/Hashzi-X">
-    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
-    
-  </a>
-</p>
+   
 
 ### 👩‍🦰ක්‍රියාත්මක කරන්නෙ කෙසේද??
 
