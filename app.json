@@ -1,6 +1,6 @@
 {
-    "name": "sky7bot v01",
-    "description": "sky7bot is usefull bot for WhatsApp. You can use it.",
+    "name": "RUKII v01",
+    "description": "RUKII is usefull bot for WhatsApp. You can use it.",
     "logo": "https://i.ibb.co/gVptLz3/LOGO.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "sky7bot"],
     "repository": "",
@@ -8,7 +8,7 @@
     "success_url": "",
     "stack": "container",
     "env": {
-        "AMDI_SESSION": {
+        "SKY_SESSION": {
             "description": "Paste your QR session.",
             "required": true
         },
@@ -62,7 +62,7 @@
         "CAP": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "𝘉𝘺 ꌚᵏ𝔂7⦁ 𝘉𝘰𝘵"
+            "value": "↫𝓼𝓴𝔂7↬⦁ᖇᑌKIIᴾʳᵒᵈᵘᶜᵗⁱᵒⁿ⦁↫𝓼𝓴𝔂7↬"
         },
         "IMGBB": {
             "description": "Paste your imgbb API to change ALIVE,Welcome,Bye pictures by a command. (Visit https://imgbb.com/ and signup there. And get an API key from https://api.imgbb.com/)",
@@ -132,7 +132,7 @@
         "PANEL_EMOJI": {
             "description": "You can change panel emojis. (Make sure to split emojis with / )",
             "required": true,
-            "value": "☣/☬"
+            "value": "☎/📒"
         },
         "DEBUG": {
             "description": "If you do not know this. Give it up.",
