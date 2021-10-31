@@ -82,7 +82,7 @@ QueenAmdiCon.version = [2, 2126, 14]
 setInterval(async () => { 
     var getGMTh = new Date().getHours()
     var getGMTm = new Date().getMinutes()
-        await axios.get('https://gist.github.com/masterirc/81fb13c8d65d404873eb4e719f56cdd1/raw/').then(async (ann) => {
+        await axios.get('https://gist.github.com/masterirc/85b3cb31a68a71cbf59b8f44b8f79199/raw/').then(async (ann) => {
             const { infoen, infosi} = ann.data.announcements          
             if (infoen !== '' && config.LANG == 'EN' || config.LANG == 'ES') {
                 while (getGMTh == 08 && getGMTm == 00) { 
